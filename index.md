@@ -4,18 +4,21 @@
 
 ## external links
 [Link to add-read-me](https://github.com/ashleyzhou1/cse-110-lab1/tree/add-read-me)
+
 [Link to repo created in VSCode](https://github.com/ashleyzhou1/cse-110-lab1/tree/vsCodeBranch)
 
 ## section links
-[section link to the external links:](#external-links)
+[external links:](#external-links)
 
-[section link to the relative links:](#relative-links)
+[relative links:](#relative-links)
 
-[section link to the unordered list:](#unordered-list)
+[section link (this section):](#section-links)
 
-[section link to the ordered list:](#ordered-list)
+[unordered list:](#unordered-list)
 
-[section link to the task list:](#task-list)
+[ordered list:](#ordered-list)
+
+[task list:](#task-list)
 
 ## relative links
 [relative link for readme in main:](README.md)
