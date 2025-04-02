@@ -2,11 +2,18 @@
 >index.md
 **Created for CSE 110 Lab 1**
 
-## Link to .gitignore
+## Link to .gitignore (in vsCodeBranch)
 [Link to .gitignore](https://github.com/ashleyzhou1/cse-110-lab1/blob/vsCodeBranch/.gitignore)
 
 ## Link to screenshots folder
 [link for screenshots](screenshots)
+
+## Quoted code example of for loop
+'''
+for(int i = 0; i < 5; i++)
+{
+  System.out.println(i);
+}
 
 ## external links
 [Link to add-read-me](https://github.com/ashleyzhou1/cse-110-lab1/tree/add-read-me)
