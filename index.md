@@ -6,7 +6,7 @@
 [Link to repo created in VSCode](https://github.com/ashleyzhou1/cse-110-lab1/tree/vsCodeBranch)
 
 ## section links
-[section link to the top header:] (index.md-file)
+[section link to the top header:](index.md-file)
 
 ## relative links
-[relative link for readme in main:] (README.md)
+[relative link for readme in main:](README.md)
