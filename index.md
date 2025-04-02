@@ -8,6 +8,14 @@
 ## Link to screenshots folder
 [link for screenshots](screenshots)
 
+## Screenshots
+/assets/screenshots/clone.png
+/assets/screenshots/cd.png
+/assets/screenshots/add.png
+/assets/screenshots/commit.png
+/assets/screenshots/push.png
+/assets/screenshots/staged_commit_VSCode.png
+
 ## Quoted code example of for loop
 ```
 for(int i = 0; i < 5; i++)
