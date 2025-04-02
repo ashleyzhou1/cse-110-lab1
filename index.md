@@ -9,11 +9,22 @@
 [link for screenshots](screenshots)
 
 ## Screenshots
+### clone
 ![clone screeshot](screenshots/clone.png)
+
+### cd
 ![cd screeshot](screenshots/cd.png)
+
+### add
 ![add screeshot](screenshots/add.png)
+
+### commit
 ![commit screeshot](screenshots/commit.png)
+
+### push
 ![push screeshot](screenshots/push.png)
+
+### screenshot for VSCode
 ![VSCode staged commit](screenshots/staged_commit_VSCode.png)
 
 ## Quoted code example of for loop
