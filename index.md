@@ -10,11 +10,11 @@
 
 ## Screenshots
 ![clone screeshot](screenshots/clone.png)
-![cd screeshot](/assets/screenshots/cd.png)
-(/assets/screenshots/add.png)
-(/assets/screenshots/commit.png)
-(/assets/screenshots/push.png)
-(/assets/screenshots/staged_commit_VSCode.png)
+![cd screeshot](screenshots/cd.png)
+![add screeshot](screenshots/add.png)
+![commit screeshot](screenshots/commit.png)
+![push screeshot](screenshots/push.png)
+![VSCode staged commit](screenshots/staged_commit_VSCode.png)
 
 ## Quoted code example of for loop
 ```
