@@ -9,8 +9,8 @@
 [link for screenshots](screenshots)
 
 ## Screenshots
-(/assets/screenshots/clone.png)
-(/assets/screenshots/cd.png)
+![clone screeshot](screenshots/clone.png)
+![cd screeshot](/assets/screenshots/cd.png)
 (/assets/screenshots/add.png)
 (/assets/screenshots/commit.png)
 (/assets/screenshots/push.png)
