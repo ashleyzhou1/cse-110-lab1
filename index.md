@@ -1,4 +1,5 @@
 # index.md file
+>index.md
 **Created for CSE 110 Lab 1**
 
 ## external links
@@ -7,6 +8,25 @@
 
 ## section links
 [section link to the external links:](#external-links)
+[section link to the relative links:](#relative-links)
 
 ## relative links
 [relative link for readme in main:](README.md)
+
+## unordered list
+### My favorite programming languages unranked:
+- Java
+* C++
++ Python
+
+## ordered list
+### My favorite programming languages ranked:
+1. Java
+2. Python
+3. C++
+
+## task list
+### things/skills I will learn in CSE 110:
+- [x] github skills
+- [ ] writing web applications
+- [ ] software development and testing
